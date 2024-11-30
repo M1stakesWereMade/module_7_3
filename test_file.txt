@@ -1,3 +1,1 @@
-Наша задача, разными способами
-обмануть эту ракетку
-мы не рискуем
+This is a test. A test this is! Text test, text is simple.
